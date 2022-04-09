@@ -1,0 +1,13 @@
+button{
+    height: 30px;
+    width: 30px;
+}
+
+h1{
+    height: 30px;
+    width: 150px;
+    outline-offset: 3px;
+    outline-style: solid;
+    outline-color: black;
+    outline-width: 3px;
+}
